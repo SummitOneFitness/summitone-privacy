@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SummitOne Data Deletion Request</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{
+font-family: Arial, sans-serif;
+background:#0f172a;
+color:#e5e7eb;
+padding:40px;
+max-width:800px;
+margin:auto;
+line-height:1.6;
+}
+h1{color:#60a5fa}
+a{color:#93c5fd}
+</style>
+</head>
+
+<body>
+
+<h1>Request Data Deletion</h1>
+
+<p>If you would like your SummitOne account and associated data deleted, you may submit a request by emailing us.</p>
+
+<p>Please include the following information:</p>
+
+<ul>
+<li>Your SummitOne account email</li>
+<li>The subject line: <strong>Data Deletion Request</strong></li>
+</ul>
+
+<p>Email your request to:</p>
+
+<p><strong>your@email.com</strong></p>
+
+<p>We will process deletion requests within 7 days.</p>
+
+<p>If you simply wish to stop using SummitOne, you may also delete the app from your device.</p>
+
+</body>
+</html>
